@@ -16,7 +16,7 @@ Installing
 
 To install, use composer:
 
-    composer require ekapusta/oauth2-esia
+    composer require danielweiser/oauth2-esia
 
 Usage
 -----
